@@ -1,0 +1,4 @@
+opencv-python
+pyspark
+hdfs
+numpy
